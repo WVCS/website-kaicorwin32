@@ -1,3 +1,20 @@
 body {
+h2{
+  color:#72788D;
+  text-decoration: underline wavy 3px;
+  word-spacing: 10px;
+text-shadow: 3px;
+ text-transform: uppercase;
+}
 
+
+body{
+  background-color:#2F4858
+}
+
+img:hover {
+  border: 2px solid #C9D7F8;
+  border-radius: 6px;
+  padding: 5px;
+  width: 150px;
 }
