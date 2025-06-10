@@ -12,8 +12,8 @@ body{
   background-color:#2F4858
 }
 img {
-  width: 50%;
-  height: 50%;
+  width: 75%;
+  height: 100%;
 }
 img:hover {
   border: 2px solid #C9D7F8;
